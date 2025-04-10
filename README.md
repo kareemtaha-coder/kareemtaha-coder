@@ -1,14 +1,9 @@
 <h1 align="center">✨ Kareem Taha Abdelghafar ✨</h1>
 <h3 align="center">🚀 Angular & Frontend Development Specialist 🚀</h3>
 
-<<<<<<< HEAD
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A54F7&center=true&vCenter=true&width=435&lines=Angular+Developer;Frontend+Specialist;UI%2FUX+Enthusiast;Clean+Code+Advocate" alt="Typing SVG" />
 </p>
-=======
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/kareem-taha/](https://www.linkedin.com/in/kareem-taha-31416634b/))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kareemmohamedoo20@gmail.com)
->>>>>>> 4aaef128098bcd8b053ff65b6df9916ca1ef273e
 
 <div align="center">
   
